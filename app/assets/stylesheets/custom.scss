@@ -135,4 +135,21 @@ h1, h2 {
     height: 30px;
     margin-left:20px;
   }
+  
+  .topic-index-icon2 {
+    width: 35px;
+    height: 30px;
+    margin-left:20px;
+    filter: invert(15%) sepia(95%) saturate(6932%) hue-rotate(358deg) brightness(95%) contrast(112%);
+  }
+  
+  .topic-comment {
+    font-size: 20px;
+    padding-right: 20px;
+    padding-left: 25px;
+    padding-top: 10px;
+  }
 }
+
+
+
